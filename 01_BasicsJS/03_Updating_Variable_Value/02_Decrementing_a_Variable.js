@@ -2,11 +2,13 @@
 
 // Step 1: Declare a let variable named 'counter' with the value 20.
 // Write your code below
-
+let counte = 20;
 
 // Step 2: Decrement the value of 'counter' by 5 using the -= operator.
 // Write your code below
 
+let counter = 20;
+counter -= 5;
 
 
 console.log(`The value of counter is ${counter}`);
