@@ -2,12 +2,13 @@
 
 // Step 1: Declare two variables, 'firstName' with the value 'Alice' and 'lastName' with the value 'Smith'.
 // Write your code below
-
+let firstName = 'Alice';
+let lastName = 'smith'; 
 
 // Step 2: Concatenate them to create a variable named 'fullName'.
     // Hint: You can concatenate strings with the '+' operator OR the 'concat()' method OR using ${}.
 // Write your code below
-
+let fullName = firstName + ''+ lastName;
 
 
 console.log(`Her first name is ${firstName} and her last name is ${lastName}, she is ${fullName}`);
