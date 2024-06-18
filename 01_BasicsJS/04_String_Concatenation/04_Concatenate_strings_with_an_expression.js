@@ -2,20 +2,22 @@
 
 // Step 1: Declare a variable named 'base' with the value 10.
 // Write your code below
-
+let base = 10;
 
 // Step 2: Declare another variable named 'height' with the value 5.
 // Write your code below
+let height = 5;
 
 
 // Step 3: Declare another variable named 'areaExpression' and assign it the value of the formula: 0.5 * base * height.
 // Write your code below
+let areaExpression =  0.5 * base * height
 
 
 // Step 4: Declare another variable named 'message' and assign it the value of the formula: "The area of the triangle is " + areaExpression + " square units."
 // Write your code below
 
-
+let message = 'The area of the triangle is'; +   areaExpression + "square units.";
 
 console.log(message);
 // Expected Output: "The area of the triangle is 25 square units."
