@@ -2,11 +2,13 @@
 
 // Step 1: Declare a let variable named 'baseNumber' with the value 5.
 // Write your code below
-
+  let baseNumbers = 5;
 
 // Step 2: Update the value of 'baseNumber' and assign it the value of the formula: baseNumber * 2.
 // Write your code below
 
+let baseNumber = 10;
+baseNumber = baseNumber *2; 
 
 
 console.log(`The value of baseNumber is: ${baseNumber}`);
