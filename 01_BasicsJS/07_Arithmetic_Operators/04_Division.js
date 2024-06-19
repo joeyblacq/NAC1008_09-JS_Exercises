@@ -2,13 +2,14 @@
 
 // Step 1: Declare two variables, 'numerator' with the value 40 and 'denominator' with the value 8.
 // Write your code below
-
+let numerator = 40;
+let denominator = 8;
 
 // Step 2: Declare a variable named 'quotient' that equals the quotient of 'numerator' and 'denominator'.
     // Hint: 'You can divide numbers with the '/' operator.'
 // Write your code below
 
-
+let quotient = numerator / denominator
 
 console.log(`The quotient of 'numerator' and 'denominator' is: ${quotient}`);
 // Expected Output: The quotient of 'numerator' and 'denominator' is: 5
