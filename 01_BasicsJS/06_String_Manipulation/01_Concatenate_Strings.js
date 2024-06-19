@@ -4,11 +4,12 @@
     // 'firstName' with the value of your firstname
     // 'lastName' with the value of your lastname
 // Write your code below
-
+const firstName = 'jo';
+const lastName = 'jackson';
 
 // Step 2: Concatenate them to create a variable named 'fullName'.
 // Write your code below
-
+const fullName = firstName + ' ' + lastName;
 
 
 console.log(`My first name is ${firstName} and my last name is ${lastName}, I am ${fullName}`);
