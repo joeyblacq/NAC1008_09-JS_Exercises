@@ -2,23 +2,24 @@
 
 // Step 1: Declare a 'let' variable named 'greeting', don't assign it any value.
 // Write your code below
-
+let greeting;
 
 // Step 2: Declare a 'const' variable named 'good' and assign it the value 'Good '.
 // Write your code below
-
+const good = 'good';
 
 // Step 3: Declare a 'const' variable named 'firstName' and assign your name as the value.
 // Write your code below
-
+const firstName = 'joel';
 
 // Step 4: Declare a 'let' variable named 'currentTime' and assign it the value of the function: new Date().getHours().
 // Write your code below
-
+let currentTime = new Date().getHours();
 
 // Step 5: Declare another 'let' variable named 'timeOfDay'.
 // Write your code below
 
+let timeOfDay
 
 // Don't change the code of the if statement.
 if (currentTime < 12) {
@@ -33,7 +34,7 @@ if (currentTime < 12) {
 // Step 6: Update the value 'greeting' with the value of the formula: good + timeOfDay + ', ' + firstName
 // Write your code below
 
-
+greeting = good + timeOfDay + ', ' + firstName;
 
 console.log(`${good} ${timeOfDay}, ${firstName}!`);
 // example of Expected Output: Good afternoon, Alice!
