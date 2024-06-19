@@ -2,11 +2,13 @@
 
 // Step 1: Declare two variables, 'dividend' with the value 27 and 'divisor' with the value 4.
 // Write your code below
-
+let divided = 27;
+let divisor = 4;
 
 // Step 2: Declare a variable named 'remainder' and find the remainder when 'dividend' is divided by 'divisor'.
 // Write your code below
 
+const  remainder = 'dividend % divisor';
 
 
 console.log(`The remainder of 'dividend' divided by 'divisor' is: `, remainder);
