@@ -2,14 +2,14 @@
 
 // Step 1: Declare a variable named 'message' with the value 'The quick brown fox jumps over the lazy dog.'.
 // Write your code below
-
+let message = 'The quick brown fox jumps over the lazy dog.';
 
 // Step 2: Declare a variable named 'stringLength' and assign it the length of the 'message' variable.
     // Hint: Use the '.length' property. 
 // Write your code below
 
-
-
+let stringLength = message.length;
+let messages ="hello,Universe!";
 console.log(`The length of the 'message' is: ${stringLength}`);
 // Expected Output: (length of the 'longString' text)
 
