@@ -3,12 +3,15 @@
 // Step 1: Declare a variable named 'helloW' with the value 'Hello, World!'.
 // Write your code below
 
+let hellow = 'Hello, Word';
+
 
 // Step 2: Declare a variable named 'helloU' and replace the substring 'World' with 'Universe' from the 'helloW' variable.
     // Hint: Use the '.replace()' method with a first parameter of 'World' and a second parameter of 'Universe'.
 // Write your code below
 
-
+let helloU ='hello,world';
+let hellou = helloU.replace('world,Universe');
 
 console.log(helloU);
 // Expected Output: Hello, Universe!
