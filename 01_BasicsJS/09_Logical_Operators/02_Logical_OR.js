@@ -2,12 +2,13 @@
 
 // Step 1: Declare two variables, 'hasCoffee' with the value 'false' and 'isTired' with the value 'true'.
 // Write your code below
-
+const hasCoffee = false;
+const isTired = true;
 
 // Step 2: Declare a variable named 'needsBreak' and 
     // use the logical OR operator '||' to check if '!hasCoffee' or 'isTired' is true.
 // Write your code below
-
+const needsBreak = !hasCoffee||isTired
 
 
 console.log(needsBreak);
