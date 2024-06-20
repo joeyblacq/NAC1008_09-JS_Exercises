@@ -2,12 +2,15 @@
 
 // Step 1: Declare two variables, 'lengthA' with the value 15 and 'lengthB' with the value 10.
 // Write your code below
+const lengthA = 15;
+const lengthB = 10;
 
 
 // Step 2: Declare a variable named 'isGreaterThan' and 
     // use the greater than operator '>' to check if 'lengthA' is greater than 'lengthB'.
 // Write your code below
 
+const isGreaterThan = lengthA > lengthB
 
 
 console.log(isGreaterThan);
