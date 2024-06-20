@@ -2,12 +2,13 @@
 
 // Step 1: Declare two variables, 'isMorning' with the value 'true' and 'isWeekday' with the value 'false'.
 // Write your code below
-
+const isMorning = true;
+const isWeekday = false;
 
 // Step 2: Declare a variable named 'isWorkingDay' and 
     // use the logical AND operator '&&' to check if 'isMorning' and 'isWeekday' is both morning and a weekday.
 // Write your code below
-
+const isWorkingDay = isMorning && isWeekday;
 
 
 console.log(isWorkingDay);
