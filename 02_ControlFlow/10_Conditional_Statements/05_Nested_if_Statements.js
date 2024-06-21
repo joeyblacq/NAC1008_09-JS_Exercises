@@ -2,18 +2,23 @@
 
 // Step 1: Declare two variables, 'isWeekend' with the value 'false' and 'time' with the value 'morning'.
 // Write your code below
-
+let  isWeekend = false;
+let  time = 'morning';
 
 // Step 2: Use nested if statements to check if it is the weekend and if so, console.log('Enjoy your weekend'),
   // otherwise, check if it is morning and log 'Good morning'.
 // Write your code below
-if () {
-  
-} else {
-  if () {
+  if ('isweekend') {
 
-  }
-}
+  console.log('Enjoy your weekend');
+
+  }  else {
+ 
+  if (time ==='morning') {
+
+    console.log('Good morning');
+    }
+    }
 
 
 
