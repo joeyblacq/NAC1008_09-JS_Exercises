@@ -1,10 +1,11 @@
 // Exercise 2.10.3
-
+// console.log('Debug: Script is running');
 // Step 1: Declare a variable 'score' with the function value: Math.random().
 // Write your code below
 
+const score = Math.random();
 
-console.log(`The score is: ${score}`)
+console.log(`The score is: ${score}`);
 
 
 // Step 2: Use an if-else if-else statement to check the score and
@@ -12,12 +13,12 @@ console.log(`The score is: ${score}`)
   // console.log('Good') if it is greater than or equal to 0.6
   // console.log('Needs Improvement') if it is less than 0.6
 // Write your code below
-if (>=) {
-
-} else if (>=) {
-
+if (score>=0.9) {
+console.log('Excellent')
+} else if (score>=0.6) {
+console.log('Good');
 } else {
-
+console.log('Needs Improvement')
 }
 
 
