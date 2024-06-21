@@ -2,7 +2,7 @@
 
 // Step 1: Declare a variable 'isRaining' with the value 'true'.
 // Write your code below
-
+let isRaining = true;
 
 // Step 2: Use the ternary operator to set a variable 'takeUmbrella' to a string,
     // 'Take an umbrella' if it is raining,
@@ -10,7 +10,8 @@
     // Hint: Ternary operators are similar to if-else statements but written in a shorter way: 
     // variable = (condition) ? value1 if true : value2 if false
 // Write your code below
-
+let takeUmbrella = isRaining? 'Take an umbrella'
+: 'no need for an umbrella';
 
 console.log(takeUmbrella);
 // Expected Output: Take an umbrella
