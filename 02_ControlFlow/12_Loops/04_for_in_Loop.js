@@ -4,11 +4,18 @@
   // The properties value should be set with the values 'John', 25, and 'New York'.
 // Write your code below
 
+let person = {
+  name: 'john',
+  age : 25,
+  city : 'New york'
+};
+
+console.log(person);
 
 // Step 2: Use a for...in loop to log each property and its value.
 // Hint: for (key in object) {log}
 // Write your code below
-for () {
+for (let key in person) {
   console.log(key + ': ' + person[key]);
 }
 
