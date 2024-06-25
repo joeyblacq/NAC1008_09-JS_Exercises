@@ -4,8 +4,7 @@
     // The function should return a personalized greeting.
     // Hint: (x, y = 'string') { return ...; }
 // Write your code below
-
-
+let greetUser =(name, greeting = 'Hello') => `${greeting}, ${name}!`;
 
 console.log(greetUser('John'));
 // Expected Output: Hello, John!

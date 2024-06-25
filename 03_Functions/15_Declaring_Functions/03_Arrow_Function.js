@@ -5,7 +5,9 @@
   // Hint 2: const functionName = (x, y) => { return ...; }
 // Write your code below
 
-
+let greetPerson = (First_name, Last_name)=>{
+  return `Hello,${First_name} ${Last_name}!`;
+}
 
 console.log(greetPerson('John', 'Doe'));
 // Expected Output: Hello, John Doe!

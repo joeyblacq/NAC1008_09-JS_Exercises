@@ -4,7 +4,7 @@
   // Hint: const z = functionName(x, y) { return ...; }
 // Write your code below
 
-
+let multiplyNumbers = ( x, y) => x * y;
 
 console.log(multiplyNumbers(2,3))
 // Expected Output: 6

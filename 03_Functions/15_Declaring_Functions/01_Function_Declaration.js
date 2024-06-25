@@ -4,7 +4,10 @@
   // Hint: function functionName(x, y) { return ...; }
 // Write your code below
 
+let addNumbers =(num1,num2) => {
 
+return num1 + num2;
+}
 
 console.log(addNumbers(2,3))
 // Expected Output: 5
