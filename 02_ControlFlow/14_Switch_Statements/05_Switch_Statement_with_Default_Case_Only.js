@@ -2,13 +2,14 @@
 
 // Step 1: Declare a variable 'animal' with the value 'elephant'.
 // Write your code below
-
+let animal = 'elephant'
 
 // Step 2: Use a switch statement with only a default case to log a message indicating it's an unknown animal.
 // Write your code below
-switch () {
+switch (animal) {
   default:
-    
+  console.log('unknown animal') 
+  break; 
 }
 
 
