@@ -2,6 +2,8 @@
 
 // Step 1: Declare two variables, 'num1' with the value 15 and 'num2' with the value 20.
 // Write your code below
+let num1 = 15;
+let num2 = 20;
 
 
 
@@ -11,7 +13,7 @@
     // and false otherwise.
 // Write your code below
 
-
+let isSumGreaterThan25 = num1 + num2 > 25 ? true : false;
 
 
 // Don't change the code of the console.log()

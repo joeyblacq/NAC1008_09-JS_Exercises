@@ -3,13 +3,15 @@
 // Step 1: Declare a variable 'userType' with the value 'admin'.
 // Write your code below
 
-
+let userType = 'admin';
 
 
 // Step 2: Use the ternary operator to set a variable 'isAdmin' to
     // true, if the user type is 'admin' 
     // false, otherwise.
 // Write your code below
+
+let isAdmin = userType === "admin" ? true : false;
 
 
 
