@@ -4,8 +4,8 @@
   // Add a continue statement to skip the iteration if the count is 2.
   // Hint: for (let x=0; x<5; x++) { if (condition) { continue; } log }
 // Write your code below
-for () {
-  if () {
+for (let count = 0; count <5;count ++) {
+  if (count == 2 ) {
     continue;
   }
   // Don't change the code of the console.log()

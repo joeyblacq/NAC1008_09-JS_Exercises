@@ -3,15 +3,16 @@
 // Step 1: Declare a variable 'count' with the value 0.
 // Write your code below
 
-
+const count = 0;
 
 
 // Step 2: Use a for loop to iterate a count from 0 to 4 and log each iteration.
   // Add a break statement to terminate the loop if the iteration is 2.
   // Hint: for (let x=0; x<5; x++) { if (condition) { break; } log }
 // Write your code below
-for () {
-  if () {
+for (let count  = 0; count < 5; count++) {
+
+  if (count == 2) {
     break;
   }
   // Don't change the code of the console.log()

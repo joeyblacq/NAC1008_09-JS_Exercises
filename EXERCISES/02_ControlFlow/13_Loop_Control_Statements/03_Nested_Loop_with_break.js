@@ -2,12 +2,13 @@
 
 // Step 1: Declare a variable 'row' with the value 0.
 // Write your code below
-
+const row = 0 ;
 
 
 
 // Step 2: Declare a variable 'column' with the value 0.
 // Write your code below
+const column = 0;
 
 
 
@@ -16,9 +17,9 @@
   // Add a break statement to terminate the outer loop when the row is 2 and the column is 1.
   // Hint: for (x=0; x<3; x++) { for (y=0; y<2; y++) { if (condition1 && condition2) { break; } log } }
 // Write your code below
-for () {
-  for () {
-    if () {
+for (let row = 0; row < 3; row ++) {
+  for (let column = 0; column < 2; column ++) {
+    if (row == 2 && column == 1) {
       console.log('break');
       break;
     }
