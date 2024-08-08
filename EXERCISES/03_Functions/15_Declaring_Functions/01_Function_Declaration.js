@@ -3,6 +3,10 @@
 // Step 1: Declare a function named 'addNumbers' that takes two parameters, 'num1' and 'num2', and returns their sum.
   // Hint: function functionName(x, y) { return ...; }
 // Write your code below
+function addNumbers (num1,num2){
+  return num1 + num2;
+
+}
 
 
 

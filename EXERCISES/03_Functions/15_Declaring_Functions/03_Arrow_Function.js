@@ -4,6 +4,9 @@
   // Hint 1: The return should be a concatenation of the two parameters.
   // Hint 2: const functionName = (x, y) => { return ...; }
 // Write your code below
+const greetPerson = (first_name, last_name) => {
+  return `Hello, ${first_name} ${last_name}!`;
+};
 
 
 

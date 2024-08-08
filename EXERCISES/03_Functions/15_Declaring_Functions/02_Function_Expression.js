@@ -4,7 +4,9 @@
   // Hint: const z = functionName(x, y) { return ...; }
 // Write your code below
 
-
+const  multiplyNumbers = function (x,y) {
+     return x * y;
+};
 
 
 // Don't change the code of the console.log()

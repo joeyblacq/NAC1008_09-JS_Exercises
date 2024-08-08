@@ -4,8 +4,9 @@
     // The function should return a personalized greeting.
     // Hint: (x, y = 'string') { return ...; }
 // Write your code below
-
-
+const greetUser = (name, greeting = 'hello') =>{
+    return `${greeting} , ${name}!`;
+};
 
 
 // Don't change the code of the console.log()
