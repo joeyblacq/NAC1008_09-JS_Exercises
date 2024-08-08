@@ -3,6 +3,8 @@
 // Step 1: Declare a variable 'fruit' with the value 'apple'.
 // Write your code below
 
+let fruit = 'apple';
+
 
 
 
@@ -11,16 +13,17 @@
   // if it's an apple or an orange, console.log(`It's an apple or an orange.`)
   // if it's any other fruit, console.log(`It's a different fruit.`)
 // Write your code below
-switch () {
-  case '':
-    
+
+switch (fruit) {
+  case 'banana':
+    console.log(`It's a banana.`);
     break;
-  case '':
-  case '':
-    
+  case 'apple':
+    case'orange':
+    console.log(`It's an apple or an orange.`);
     break;
   default:
-  
+   console.log(`It's a different fruit.`);
 }
 // Expected Output: It's an apple or an orange.
 

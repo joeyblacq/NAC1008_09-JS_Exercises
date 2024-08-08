@@ -2,6 +2,7 @@
 
 // Step 1: Declare a variable 'month' with the value 'August'.
 // Write your code below
+let month = 'August';
 
 
 
@@ -11,17 +12,17 @@
   // if it's 'August', 'September', or 'October', console.log(`It's the second half of the year.`)
   // if it's any other month, console.log(`It's a different month.`)
 // Write your code below
-switch () {
-  case '':
-    
+switch (month) {
+  case "January":
+    console.log(`It's the beginning of the year.`);
     break;
-  case '':
-  case '':
-  case '':
     
+  case "August":
+  case "semptember":
+  case "October":
+     console.log(`It's the second half of the year.`);
     break;
   default:
-    
 }
 // Expected Output: It's the second half of the year.
 
