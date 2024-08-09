@@ -56,7 +56,7 @@ console.log(greeting);
 
 
 // To see the result of the console.log(), use the command below in the terminal:
-// node EXERCISES/01_BasicsJS/04_String_Concatenation/05_Concatenate_strings_with_a_constant.js
+// node EXERCISES/01_BasicsJS/04_String_Concatenation/05_Concatenate_strings_with_a_const_and_let.js
 
 // To run the test of this specific exercise, use the command below in the terminal:
 // npm run test:1.4.5

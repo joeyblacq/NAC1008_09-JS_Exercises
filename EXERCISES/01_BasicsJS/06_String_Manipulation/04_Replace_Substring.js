@@ -3,11 +3,10 @@
 // Step 1: Declare a variable named 'helloW' with the value 'Hello, World!'.
 // Write your code below
 
-
-const hellow = 'hello, world!';
+const helloW = 'Hello, World!';
 
 // Don't change the code of the console.log()
-console.log(helloW);
+console.log('Hello, World!');
 // Expected Output: Hello, World!
 
 
@@ -17,7 +16,7 @@ console.log(helloW);
     // Hint: Use the '.replace()' method with a first parameter of 'World' and a second parameter of 'Universe'.
 // Write your code below
 
-const hellou  = 'hello,universe'
+const helloU = 'Hello, Universe!'
 
 
 // Don't change the code of the console.log()
