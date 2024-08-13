@@ -13,7 +13,7 @@ let lastName = 'Smith';
 
 
 
-const fullName = firstName + '' + lastName;
+const fullName = firstName +  ' '  + lastName;
 
 // Don't change the code of the console.log()
 console.log(`Her first name is ${firstName} and her last name is ${lastName}, she is ${fullName}`);

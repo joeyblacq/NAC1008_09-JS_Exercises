@@ -21,8 +21,8 @@ const areaExpression = 0.5  * base * height;
 // Step 4: Declare another variable named 'message' and assign it the value of the formula: "The area of the triangle is " + areaExpression + " square units."
 // Write your code below
 
-const message = "the area of the triagnle" +
-areaExpression + "square units";
+const message = "The area of the triangle is " +
+areaExpression + " square units.";
 
 // Don't change the code of the console.log()
 console.log(message);

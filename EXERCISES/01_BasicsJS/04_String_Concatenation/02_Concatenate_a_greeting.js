@@ -4,13 +4,13 @@
 // Write your code below
 
 
-const firstName ='John';
+let  firstName ='John';
 
 // Step 2: Declare a variable 'greeting' with the value of 'Hello, ' + firstName + '! How are you today?'
 // Write your code below
 
+let greeting = "Hello, " + firstName + "! How are you today?";
 
-const greeting = 'hello,' + firstName + '! how are you doing'
 
 // Don't change the code of the console.log()
 console.log(greeting);

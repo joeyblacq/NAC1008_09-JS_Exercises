@@ -3,19 +3,19 @@
 // Step 1: Declare a variable named 'text' with the string value of 'The score is '.
 // Write your code below
 
-const text = 'the score is'
+let  text = 'The score is ';
 
 
 // Step 2: Declare another variable named 'score' with the value 100.
 // Write your code below
 
-const score = 100;
+let  score = 100;
 
 
 // Step 3: Declare another variable named 'message' and assign it the value of the formula: text + score.
 // Write your code below
 
-const message = text + score;
+let  message =  text + score;
 
 
 // Don't change the code of the console.log()
