@@ -10,7 +10,7 @@ const nullVar = 'null';
 // Don't change the code of the ternary operation
 nullVar === null 
     ? console.log(`nullVar is null`) 
-    : console.log(`The value of nullVar is ${nullVar}`);
+    : console.log(`nullVar is ${nullVar}`);
 // Expected Output: nullVar is null
 
 

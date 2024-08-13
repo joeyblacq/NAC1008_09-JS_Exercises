@@ -9,7 +9,7 @@ let undefinedVar = '';
 // Don't change the code of the ternary operation
 undefinedVar === undefined 
     ? console.log(`undefinedVar is undefined`) 
-    : console.log(`The value of undefinedVar is ${undefinedVar}`);
+    : console.log(`undefinedVar is undefined ${undefinedVar}`);
 // Expected Output: undefinedVar is undefined
 
 

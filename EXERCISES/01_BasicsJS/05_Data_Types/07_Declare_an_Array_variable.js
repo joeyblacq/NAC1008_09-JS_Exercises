@@ -3,7 +3,7 @@
 // Step 1: Declare an array named 'fruits' with values 'Apple', 'Banana', and 'Orange'.
 // Write your code below
 
-const fruits =['Apple', 'banana', 'Orange'];
+const fruits =['Apple', 'Banana', 'Orange'];
 
 // Don't change the code of the console.log()
 console.log(fruits);
