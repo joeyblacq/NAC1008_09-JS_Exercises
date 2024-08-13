@@ -48,7 +48,7 @@ switch ("dayNumber") {
     console.log(`It's the weekend`);
     break;
   default:
-    console.log("Invalid day");
+    console.log("It's the middle of the week");
 }
 // Expected Output: Will depend on the value of 'dayNumber'
 

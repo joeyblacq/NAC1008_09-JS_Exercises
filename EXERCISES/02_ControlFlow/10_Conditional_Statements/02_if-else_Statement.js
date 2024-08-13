@@ -1,7 +1,8 @@
 // Exercise 2.10.2
 
 // Step 1: Declare a variable 'morning' with the value 'true'.
-// Write your code belo
+// Write your code below
+
 let morning = true;
 
 // Step 2: Use an if-else statement to check if morning is true, and if so, log 'Good morning', otherwise console.log('Good day').

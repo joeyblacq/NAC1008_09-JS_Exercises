@@ -10,8 +10,8 @@ const time = 'morning';
 // Step 2: Use nested if statements to check if it is the weekend and if so, console.log('Enjoy your weekend'),
   // otherwise, check if it is morning and log 'Good morning'.
 // Write your code below
-if (isTheWeekend) {
-  console.log('enjoy your weekend')
+if ('isTheWeekend') {
+  console.log('Good morning')
 } else {
   if (time =='morning') {
     console.log('good morning');
