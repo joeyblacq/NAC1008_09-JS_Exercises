@@ -3,7 +3,7 @@
 // Step 1: Declare a variable named 'message' with the value 'The quick brown fox jumps over the lazy dog.'.
 // Write your code below
 
-const message ='the quick brown fox jumps over the lazy dog'
+const message ='The quick brown fox jumps over the lazy dog.';
 
 
 

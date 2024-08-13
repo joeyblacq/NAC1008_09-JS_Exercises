@@ -4,15 +4,15 @@
     // 'firstName' with the value of your firstname
     // 'lastName' with the value of your lastname
 // Write your code below
-const firstName = "Bobby";
-const lastName = "Vibes";
+const firstName = "John";
+const lastName = "Doe";
 
 // Step 2: Concatenate them to create a variable named 'fullName'.
 // Write your code below
 let fullName = firstName + " " + lastName;
 
 // Don't change the code of the console.log()
-console.log(`My first name is ${firstName} and my last name is ${lastName}, I am ${fullName}.`);
+console.log(`My first name is ${firstName} and my last name is ${lastName}, I am ${fullName}`);
 // Example of Expected Output: My first name is Alice and my last name is Smith, I am Alice Smith
 
 // To see the result of the console.log(), use the command below in the terminal:
