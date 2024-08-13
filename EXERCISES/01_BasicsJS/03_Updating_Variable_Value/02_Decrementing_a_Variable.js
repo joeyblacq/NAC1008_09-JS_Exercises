@@ -9,7 +9,7 @@ let  counter = 20;
 // Step 2: Decrement the value of 'counter' by 5 using the -= operator.
 // Write your code below
 
-let  -= 5;
+ counter -= 5;
 
 
 
