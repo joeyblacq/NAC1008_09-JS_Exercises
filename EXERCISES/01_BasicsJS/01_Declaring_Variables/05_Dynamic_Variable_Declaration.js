@@ -11,7 +11,7 @@ let smartphone;
         // and the second value of 'smartphone' should be 'Android'.
         if (Math.random()> 0.5){
             // Write your code below
-            smartphone ='iphone';
+            smartphone ='iPhone';
         
         } else {
             // Write your code below
