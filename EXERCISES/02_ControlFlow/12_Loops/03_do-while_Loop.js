@@ -12,7 +12,7 @@ let count = 0;
 do {
   // Don't change the code of the console.log()
   console.log('Iteration ' + count);
-  
+  count ++
 } while ( count < 5);
 // Expected Output:
 // Iteration 0
