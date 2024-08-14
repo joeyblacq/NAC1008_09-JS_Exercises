@@ -9,7 +9,7 @@ const isSunny = 'true';
 // Don't change the code of the ternary operation
 isSunny === true 
     ? console.log(`It's sunny today`) 
-    : console.log(`It's  sunny today`);
+    : console.log(`It's sunny today`);
 // Expected Output: It's sunny today
 
 
