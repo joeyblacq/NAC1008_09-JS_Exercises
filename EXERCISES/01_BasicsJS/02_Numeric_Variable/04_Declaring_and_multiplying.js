@@ -3,19 +3,19 @@
 // Step 1: Declare a variable named 'quantity' with the value 5.
 // Write your code below
 
-
+let quantity = 5;
 
 
 // Step 2: Declare another variable named 'pricePerUnit' with the value 25.
 // Write your code below
 
-
+let pricePerUnit = 25;
 
 
 // Step 3: Declare another variable named 'totalPrice' and assign it the value of the formula: quantity * pricePerUnit.
 // Write your code below
 
-
+let totalPrice = quantity * pricePerUnit;
 
 
 // Don't change the code of the console.log()
