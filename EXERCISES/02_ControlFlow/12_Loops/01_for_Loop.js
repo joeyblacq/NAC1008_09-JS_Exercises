@@ -1,13 +1,13 @@
-// Exercise 2.12.1
+                      // Exercise 2.12.1
 
 // Step 1: Use a for loop to iterate a variable name 'count' from 0 to 4 and log each iteration.
 // Hint: for (let x = 0; x < 5; x++) {}
 // Write your code below
-for () {
+for (let count = 0; count < 5; count ++) {
   // Don't change the code of the console.log()
-  console.log('Iteration ' + count);
+  console.log("Iteration " + count);
 }
-// Expected Output:
+// Expected Output:     
 // Iteration 0
 // Iteration 1
 // Iteration 2

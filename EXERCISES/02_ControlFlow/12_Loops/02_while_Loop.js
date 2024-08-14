@@ -3,15 +3,16 @@
 // Step 1: Declare a variable 'count' with the value 0.
 // Write your code below
 
-
+let count = 0;
 
 
 // Step 2: Use a while loop to iterate 'count' from 0 to 4 and log each iteration.
 // Hint: white (x<5) {log; count++;}
 // Write your code below
-while () {
+while (count < 5) {
   // Don't change the code of the console.log()
   console.log('Iteration ' + count);
+  count ++ ;
   
 }
 // Expected Output:
