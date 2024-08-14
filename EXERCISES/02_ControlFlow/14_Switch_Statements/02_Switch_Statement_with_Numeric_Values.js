@@ -12,13 +12,13 @@ let number = Math.floor(Math.random()*3) + 1;
   // if it's 3, console.log(`The number is three.`)
 // Write your code below
 switch (number) {
-  case '1':
+  case 1:
     console.log(`The number is one.`);
     break;
-  case '2':
-  2, console.log(`The number is two.`);  
+  case 2:
+   console.log(`The number is two.`);  
     break;
-  case '3':
+  case 3:
     console.log(`The number is three.`);
     break;
   default:

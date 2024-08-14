@@ -12,7 +12,7 @@ let animal = 'elephant';
 // Write your code below
 switch (animal) {
   default:
-    console.log ('an unknown animal');
+    console.log ('It's an unknown');
 }
 // Expected Output: It's an unknown animal.
 

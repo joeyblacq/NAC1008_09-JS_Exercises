@@ -24,7 +24,7 @@ console.log(`Today it is ${dayName}`)
   // console.log(`It's the weekend`) if it is Sunday,
   // and console.log(`Invalid day`) otherwise (default).
 // Write your code below
-switch (dayNumber) {
+switch (dayName) {
   case "Monday":
     console.log(`It's the start of the week`);
     break;

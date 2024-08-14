@@ -8,7 +8,9 @@ const numbers = [1,2,3,4,5];
 
 // Step 2: Use a for...of loop to log each value.
 // Hint: for (value of array) {log}
-for ( let number of numbers) {
+for ( const valueName of numbers) {
+
+
   // Don't change the code of the console.log()
   console.log('Value: ' + valueName);
 }
