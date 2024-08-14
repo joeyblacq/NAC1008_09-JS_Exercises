@@ -11,7 +11,7 @@ const temperature = 28;
     // 'Warm' otherwise.
 // Write your code below
 
-let weather = temperature > 30 ?'hot' : 'warm';
+let weather = temperature > 30 ?'hot' : 'Warm';
 
 
 

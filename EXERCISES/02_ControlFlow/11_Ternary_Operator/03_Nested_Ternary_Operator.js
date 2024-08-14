@@ -4,7 +4,7 @@
 // Write your code below
 
 let isWeekend = false;
-let time = morning;
+let time = 'morning';
 
 
 // Step 2: Use nested ternary operators to set a variable 'greeting' to
@@ -35,4 +35,4 @@ console.log(greeting);
 // node EXERCISES/02_ControlFlow/11_Ternary_Operator/03_Nested_Ternary_Operator.js
 
 // To run the test of this specific exercise, use the command below in the terminal:
-// npm run test:2.11.3
+// npm run test:2.11.3 
