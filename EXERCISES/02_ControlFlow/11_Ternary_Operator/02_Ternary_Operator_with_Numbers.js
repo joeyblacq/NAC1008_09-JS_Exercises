@@ -23,7 +23,7 @@ console.log(weather);
 
 
 // To see the result of the console.log(), use the command below in the terminal:
-// node Version-2-Testing/NAC-1008_09_JavaScript_Fundamentals/EXERCISES/02_ControlFlow/11_Ternary_Operator/02_Ternary_Operator_with_Numbers.js
+// node EXERCISES/02_ControlFlow/11_Ternary_Operator/02_Ternary_Operator_with_Numbers.js
 
 // To run the test of this specific exercise, use the command below in the terminal:
 // npm run test:2.11.2
