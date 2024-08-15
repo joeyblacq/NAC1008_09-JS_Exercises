@@ -34,7 +34,7 @@ switch (dayName) {
   case "Wednesday":
     console.log(`It's the middle of the week`);
     break;
-  case "thursday":
+  case "Thursday":
     console.log(`It's the middle of the week`);
     break;
   case "Friday":
@@ -43,7 +43,7 @@ switch (dayName) {
   case "Saturday":
      console.log(`It's the weekend`);
     break;
-  case "sunday":
+  case "Sunday":
     console.log(`It's the weekend`);
     break;
   default:
